@@ -15,6 +15,6 @@ With the deteriorating situation of COVID-19, we need to emphasize more on the r
 * c.	DISTANCE. The distance is from 
 * d.	Warning. The system gives warning if two people are too close. This could definitely be helpful in detecting people in queues for some high-density areas.
 
-6.	Further Application 
+4.	Further Application 
 * a.	The product can be deployed in area with high-density population like shopping malls and subway stations. 
 * b.	We can improve our product by optimizing the face mask detection model, which can be done by providing more training samples. After installing the first batch of products, with the help of the camera, we can collect a lot of photos of people with mask and videos with moving persons.  
